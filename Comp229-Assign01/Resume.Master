@@ -12,6 +12,7 @@
 <body>
     <form id="form1" runat="server">
         <div style="background-image:url('Img/Pattern.jpg');">
+           
             <a href="#"> <img src="Img/Logo.png" width= "300px" height= "200px" alt="Logo page"> </a>
             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
             </asp:ContentPlaceHolder>

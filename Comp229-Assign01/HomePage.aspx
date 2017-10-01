@@ -5,6 +5,7 @@
     <div id="allPage" style="width:1080px; margin-left:auto; margin-right:auto;">
 
     <div class="main"><h1>Chanpreet Mudhar</h1>
+         <%--Sources(NameLogo):https://www.freelogoservices.com/signup--%>
         <%--Sources(ContactsLogo):http://www.iconarchive.com/show/100-flat-icons-by-graphicloads/contact-icon.html--%>
         <%--Sources(ResumeLogo): http://professionbiz.com/archives/5528--%>
         <a href="HomePage.aspx"><img src="Img/Home.png" width= "115px" height= "100px" alt="Home Logo" title="Home Link"></a>
